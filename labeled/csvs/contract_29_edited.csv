@@ -1,0 +1,4 @@
+,highlighted_xpaths,highlighted_segmented_text,highlighted_labels,segment_number_from_idx,highlighted_coordinates,num_entries_1,exploded_highlight_node_order,top,left,width,height,top_via_line_group,size
+0,/html/body/document/type/sequence/filename/description/text/p[63]/font/u,"The
+Mergers",sst,0,"[0.09066689102024791, 0.07917603783499737, 0.037613294797687866, 0.0004206629648325761]",2,0,0.09066689102024791,0.07917603783499737,0.037613294797687866,0.0004206629648325761,0.09066689102024791,2
+1,/html/body/document/type/sequence/filename/description/text/p[63]/font,.,sst,0,"[0.09066689102024791, 0.07917603783499737, 0.037613294797687866, 0.0004206629648325761]",2,1,0.09066689102024791,0.07917603783499737,0.037613294797687866,0.0004206629648325761,0.09066689102024791,2
